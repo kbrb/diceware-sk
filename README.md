@@ -17,7 +17,7 @@ Pre výber dostatočného počtu slov sa používajú slová s počtom 8 znakov.
 ## Chyby
 
 Nakoľko slovník neprešiel dodatočnou kontrolou, môže obsahovať slová, ktoré nespĺňajú horeuvedené kritériá.
-Ak v ňom nájdete slovo, ktoré je potrebné zameniť, sa pridajte do projektu.
+Ak v ňom nájdete slovo, ktoré je potrebné zameniť, pridajte sa do projektu.
 Môžete písať aj do komentárov na stránke https://www.starpass.site/blog/slovensky-diceware-slovnik
 
 ## Inštrukcie ako používať?
@@ -28,4 +28,5 @@ https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware
 ## Zdroje
 
 Oficiálna stránka The Diceware Passphrase Home Page http://world.std.com/~reinhold/diceware.html
+
 Diceware kit http://world.std.com/~reinhold/dicewarekit.html
