@@ -1,5 +1,5 @@
-* Slovensk� Diceware slovn�k
-* In�trukcie pozri na https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware
+﻿* Slovenský Diceware slovník
+* Inštrukcie ako vytvoriť bezpečné heslo metódou Diceware pozri na https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware
 11111	0
 11112	1
 11113	2
