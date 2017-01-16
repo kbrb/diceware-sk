@@ -22,7 +22,8 @@ Môžete písať aj do komentárov na stránke https://www.starpass.site/blog/sl
 
 ## Inštrukcie ako používať?
 
-Inštrukcie ako vytvoriť bezpečné heslo metódou Diceware je na stránke 
+Inštrukcie ako vytvoriť bezpečné heslo metódou Diceware je na stránke
+
 https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware
 
 ## Zdroje
