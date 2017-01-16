@@ -1,6 +1,6 @@
 ﻿# Slovenský Diceware slovník
 
-Slovník v textovom formáte je tu https://github.com/kbrb/diceware-sk/blob/master/diceware_sk.txt
+[Slovník v textovom formáte](https://github.com/kbrb/diceware-sk/blob/master/diceware_sk.txt/)
 
 ## Popis
 
@@ -17,17 +17,17 @@ Pre výber dostatočného počtu slov sa používajú slová s počtom 8 znakov.
 ## Chyby
 
 Nakoľko slovník neprešiel dodatočnou kontrolou, môže obsahovať slová, ktoré nespĺňajú horeuvedené kritériá.
-Ak v ňom nájdete slovo, ktoré je potrebné zameniť, pridajte sa do projektu.
-Môžete písať aj do komentárov na stránke https://www.starpass.site/blog/slovensky-diceware-slovnik
+Ak v ňom nájdete slovo, ktoré je potrebné zameniť, pridajte sa do projektu. 
+
+Môžete písať aj [do komentárov na tejto stránke](https://www.starpass.site/blog/slovensky-diceware-slovnik)
 
 ## Inštrukcie ako používať?
 
-Inštrukcie ako vytvoriť bezpečné heslo metódou Diceware je na stránke
+Inštrukcie ako vytvoriť [bezpečné heslo metódou Diceware](https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware)
 
-https://www.starpass.site/blog/bezpecne-heslo-metodou-diceware
 
 ## Zdroje
 
-Oficiálna stránka The Diceware Passphrase Home Page http://world.std.com/~reinhold/diceware.html
+[Oficiálna stránka The Diceware Passphrase Home Page](http://world.std.com/~reinhold/diceware.html)
+[Použitý Diceware kit](http://world.std.com/~reinhold/dicewarekit.html)
 
-Diceware kit http://world.std.com/~reinhold/dicewarekit.html
