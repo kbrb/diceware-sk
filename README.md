@@ -1,4 +1,4 @@
-﻿# Slovenský Diceware slovník
+﻿## Slovenský Diceware slovník
 
 [Slovník v textovom formáte](https://github.com/kbrb/diceware-sk/blob/master/diceware_sk.txt/)
 
@@ -29,5 +29,6 @@ Inštrukcie ako vytvoriť [bezpečné heslo metódou Diceware](https://www.starp
 ## Zdroje
 
 [Oficiálna stránka The Diceware Passphrase Home Page](http://world.std.com/~reinhold/diceware.html)
+
 [Použitý Diceware kit](http://world.std.com/~reinhold/dicewarekit.html)
 
